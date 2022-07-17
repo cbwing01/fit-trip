@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://cillian_wing:Qwerty3195*!@fittrip.p2nlp.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://cillian_wing:Qwerty3195*!@fittrip.p2nlp.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
