@@ -9,12 +9,24 @@ const ProfileSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
-  address1: { type: String },
-  address2: { type: String },
-  unit: { type: String },
-  city: { type: String },
-  state: { type: String },
-  zip: { type: Number },
+  address1: { 
+    type: String 
+  },
+  address2: { 
+    type: String 
+  },
+  unit: { 
+    type: String 
+  },
+  city: { 
+    type: String 
+  },
+  state: { 
+    type: String 
+  },
+  zip: { 
+    type: Number 
+  },
   emergencyName: { 
     type: String,
     required: true
